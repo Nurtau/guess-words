@@ -1,0 +1,43 @@
+
+
+* {
+	color: #ff6701;
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background-color: #fcecdd;
+	height: 70vh;
+	width: 90%;
+	margin: auto;
+}
+
+.word {
+	color: #ff6701;
+	font-size: 8vw;
+}
+
+.header {
+	font-size: 20px;
+}
+
+.text {
+	font-size: 18px;
+}
+
+
+#restart-btn {
+	width: 100%;
+	color: #fcecdd;
+	background-color: #fea82f;
+	font-size: 16px;
+	transition: 0.2s ease-out;
+	
+}
+
+#restart-btn:hover {
+	background-color: #ffc288;
+	color: #ff6701;
+}
